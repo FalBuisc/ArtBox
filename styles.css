@@ -9,7 +9,9 @@ header {
     font-size: 35px;
     color: white;
 }
-
+body {
+    backround-color: #4D494B;
+}
 p {
     text-align: center;
     color: gray
